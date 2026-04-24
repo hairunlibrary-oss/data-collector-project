@@ -1,0 +1,9 @@
+Fase,Topik Utama,Materi Spesifik,Target Output
+1,Navigasi & Dasar,"FHS (Struktur Folder), ls, cd, mkdir, rm, cp, mv.",Lancar berpindah direktori tanpa GUI.
+2,Editor & File,"Vim/Nano, cat, less, head, tail, Link (ln).",Bisa mengedit file konfigurasi langsung di terminal.
+3,Hak Akses,"chmod, chown, sudo, User/Group management.",Memahami keamanan file dan hak eksekusi script.
+4,Power Tools,"I/O Redirection (>, >>), Piping (|), grep, find.",Bisa mencari data di tengah ribuan baris log.
+5,Text Processing,"Dasar-dasar Regex, sed (stream editor), awk.",Mampu memanipulasi isi file secara otomatis.
+6,Bash Logic,"Variabel, Parameter ($1), if-else, case.",Membuat keputusan dalam script berdasarkan kondisi.
+7,Loops & Function,"for loop, while loop, Reusable Functions.",Mengotomatiskan tugas repetitif (misal: buat 100 user).
+8,System Ops,"top/htop, crontab, systemctl, Exit Codes.",Menjadwalkan script berjalan otomatis setiap jam/hari.
